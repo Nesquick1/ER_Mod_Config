@@ -39,6 +39,7 @@ loose_params = false
 mods = [
     { enabled = false, name = "default", path = "mods\\potato" },
     { enabled = true, name = "default", path = "mods\\zoro" },
+    { enabled = true, name = "default", path = "mods\\law" },
     { enabled = false, name = "default", path = "mods\\law" },
     { enabled = true, name = "default", path = "mods\\presets" }
 ]
