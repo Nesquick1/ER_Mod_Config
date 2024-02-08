@@ -1,0 +1,2 @@
+OnlineFix64.dll
+SeamlessCoop\elden_ring_seamless_coop.dll
