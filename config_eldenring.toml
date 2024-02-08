@@ -37,9 +37,9 @@ loose_params = false
 # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
 # a future release.
 mods = [
-    { enabled = true, name = "default", path = "mods\\potato" },
-#    { enabled = true, name = "default", path = "mods\\zoro" },
-    { enabled = true, name = "default", path = "mods\\law" },
+    { enabled = false, name = "default", path = "mods\\potato" },
+    { enabled = true, name = "default", path = "mods\\zoro" },
+    { enabled = false, name = "default", path = "mods\\law" },
     { enabled = true, name = "default", path = "mods\\presets" }
 ]
 
