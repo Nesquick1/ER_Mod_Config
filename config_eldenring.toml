@@ -41,10 +41,11 @@ mods = [
 # GAMEMODES --------------------------------------------------------------------->
 
 	{ enabled = false, name = "default", path = "mods\\reborn" },	
+	{ enabled = false, name = "default", path = "mods\\cariancombo" },	
 
 # UTILS ------------------------------------------------------------------------->
 
-	{ enabled = true, name = "default", path = "mods\\potato" },
+	{ enabled = false, name = "default", path = "mods\\potato" },
 
 # MODELS ------------------------------------------------------------------------>
 
