@@ -37,12 +37,23 @@ loose_params = false
 # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
 # a future release.
 mods = [
-	{ enabled = false, name = "default", path = "mods\\potato" },
-	{ enabled = true, name = "default", path = "mods\\zoro" },
-	{ enabled = true, name = "default", path = "mods\\law" },
-	{ enabled = false, name = "default", path = "mods\\luffy" },
-	{ enabled = true, name = "default", path = "mods\\2b" },
-	{ enabled = true, name = "default", path = "mods\\presets" }
+
+# GAMEMODES --------------------------------------------------------------------->
+
+	{ enabled = false, name = "default", path = "mods\\reborn" },	
+
+# UTILS ------------------------------------------------------------------------->
+
+	{ enabled = true, name = "default", path = "mods\\potato" },
+
+# MODELS ------------------------------------------------------------------------>
+
+	{ enabled = false, name = "default", path = "mods\\models\\zoro" },
+	{ enabled = false, name = "default", path = "mods\\models\\law" },
+	{ enabled = false, name = "default", path = "mods\\models\\luffy" },
+	{ enabled = false, name = "default", path = "mods\\models\\2b" },
+	{ enabled = false, name = "default", path = "mods\\models\\presets" },
+	
 ]
 
 # When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach

@@ -1,0 +1,44 @@
+{
+  "ProjectName": "Elden Ring Reborn",
+  "GameRoot": "A:\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
+  "GameType": 8,
+  "PinnedParams": [
+    "SpEffectParam",
+    "EquipParamWeapon",
+    "EquipParamAccessory"
+  ],
+  "PinnedRows": {
+    "SpEffectParam": [],
+    "EquipParamWeapon": [
+      9070000
+    ],
+    "Bullet": [
+      10694000,
+      3250200
+    ],
+    "NpcParam": [
+      47200134,
+      36600010,
+      34001001
+    ],
+    "Magic": [
+      6910
+    ],
+    "EquipParamGoods": [
+      2121,
+      1075,
+      1074
+    ],
+    "NpcThinkParam": [
+      30800010,
+      36600010
+    ],
+    "ItemLotParam_map": [
+      30010010
+    ]
+  },
+  "PinnedFields": {},
+  "UseLooseParams": false,
+  "PartialParams": false,
+  "LastFmgLanguageUsed": ""
+}
