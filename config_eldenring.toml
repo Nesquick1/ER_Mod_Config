@@ -41,7 +41,8 @@ mods = [
 # GAMEMODES --------------------------------------------------------------------->
 
 	{ enabled = false, name = "default", path = "mods\\reborn" },	
-	{ enabled = true, name = "default", path = "mods\\cariancombo" },	
+	{ enabled = false, name = "default", path = "mods\\cariancombo" },
+	{ enabled = true, name = "default", path = "mods\\convergence" },	
 
 # UTILS ------------------------------------------------------------------------->
 
@@ -49,6 +50,8 @@ mods = [
 
 # MODELS ------------------------------------------------------------------------>
 
+	{ enabled = false, name = "default", path = "mods\\models\\dante" },
+	{ enabled = false, name = "default", path = "mods\\models\\vergil" },	
 	{ enabled = false, name = "default", path = "mods\\models\\zoro" },
 	{ enabled = false, name = "default", path = "mods\\models\\law" },
 	{ enabled = false, name = "default", path = "mods\\models\\luffy" },
