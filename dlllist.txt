@@ -1,5 +1,3 @@
 dlls\OnlineFix\OnlineFix64.dll
 dlls\PostureBar\PostureBarMod.dll
 dlls\SeamlessCoop\elden_ring_seamless_coop.dll
-dlls\Erdtools_convergence\ErdTools.dll
-dlls\Transmogrify_convergence\ertransmogrify.dll
